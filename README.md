@@ -1,7 +1,8 @@
 
 # 🌱 Eco Habits — Gamified Eco-Friendly Learning Platform
 
-A web + offline learning platform that teaches Classes 1–9 students eco-friendly habits through games, quizzes, and real-life challenges — built for [Hackathon Name].
+A web + offline learning platform that teaches Classes 1–9 students eco-friendly habits through games, quizzes, and real-life challenges — built for Smart India Hackthon.
+(This was my first hackthon that i took part in my 1st year)
 
 **🔗 Live Prototype:** https://eco-habits-education-pd0a.bolt.host/
 
@@ -115,6 +116,7 @@ These offline games are also available to buy from our website shop.
 ## Status
 
 This was built as a hackathon prototype about a year ago. The working prototype is live at the link above; this repo documents the concept, design, and pitch. Judges responded very positively to the presentation.
+
 
 ## Tech / Tools
 
